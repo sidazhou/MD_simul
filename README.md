@@ -4,3 +4,6 @@ see `www.sidazhou.com` -> `project(science)` -> `Molecular Dynamics simulation` 
 
 ## Entry point
 sdSubpar.m
+
+# version_str
+15NEWNEWSTDforO2
