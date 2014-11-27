@@ -1,4 +1,4 @@
-simul_zeeman_decel
+MD_simul (matlab)
 ==================
 see `www.sidazhou.com` -> `project(science)` -> `Molecular Dynamics simulation` for more information
 
